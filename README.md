@@ -10,3 +10,4 @@
     <img align="center" alt="python" scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </div>
 
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
